@@ -1,0 +1,701 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .main{
+    height: 800px;
+} */
+
+.Rectangle4580{
+    position: absolute;
+    width: 1345px;
+    height: 68px;
+    left: 0px;
+    top: 0px;
+    
+    background: #232323;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.25);
+    
+}
+.Logo{
+    position: absolute;
+left: 9.34%;
+right: 75.63%;
+top: 1.25%;
+bottom: 91.59%;
+
+}
+.Home{
+    position: absolute;
+width: 48px;
+height: 23.1px;
+left: 512px;
+top: 22px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.Categories{
+    position: absolute;
+width: 89px;
+height: 23.1px;
+left: 619px;
+top: 22px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.Vector{
+    position: absolute;
+left: 52.09%;
+right: 46.98%;
+top: 4.32%;
+bottom: 94.59%;
+
+/* background: #FFFFFF; */
+height: 7.7779998779296875px;
+width: 12.72800064086914px;
+left: 713.6357421875px;
+top: 31.04296875px;
+border-radius: 0px;
+
+}
+.AboutUs{
+    position: absolute;
+width: 73px;
+height: 23.1px;
+left: 785.36px;
+top: 22px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.Group19095{
+    position: absolute;
+left: 77.52%;
+right: 9.49%;
+top: 1.81%;
+bottom: 92.29%;
+Width:
+178px;
+Height:
+42.36px;
+Top:
+13px;
+Left:
+1062px;
+}
+.Register-now{
+    position: absolute;
+width: 105px;
+height: 26px;
+left: 1110px;
+top: 22px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+
+color: #FFFFFF;
+Width:105px;
+Height:26px;
+Top:22px;
+Left:1110px;
+}
+.first{
+    position: relative;
+width: 500px;
+height: 600px;
+  }
+.Rectangle4585{
+    position: absolute;
+width: 670px;
+height: 650px;
+left: 0px;
+top: 68px;
+
+background: #F1F1F1;
+}
+.Tabletlogin-amico1{
+    position: absolute;
+width: 441px;
+height: 441px;
+left: 114px;
+top: 166px;
+Width:
+441px;
+Height:
+441px;
+Top:
+166px;
+Left:
+114px;
+}
+.LogintoProsofos{
+    position: absolute;
+width: 246px;
+height: 46px;
+left: 890px;
+top: 138px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 42px;
+
+color: #2A2A2D;
+
+}
+.Rectangle175{
+    position: absolute;
+width: 445px;
+height: 56px;
+right: 130px;
+top: 212px;
+
+background: #FFF6EE;
+border: 1px solid #E7E7E7;
+box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+.EmailText{
+    position: absolute;
+width: 39px;
+height: 17px;
+right: 518px;
+top: 227px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+
+color: #2A2A2D;
+
+}
+
+.Password{
+    position: absolute;
+width: 445px;
+height: 56px;
+right: 130px;
+top: 285px;
+
+/* white */
+
+background: #FFFFFF;
+border: 1px solid #E7E7E7;
+box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+/* .email-rectangle{
+    display: none;
+} */
+.Conditions{
+    position: absolute;
+width: 326px;
+height: 15px;
+left: 846px;
+top: 360px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+
+color: #2A2A2D;
+}
+.Rectangle4584{
+    position: absolute;
+width: 458px;
+height: 56px;
+left: 765px;
+top: 393px;
+
+background: #F48220;
+border-radius: 4px;
+}
+.Login{
+    position: absolute;
+left: 50%;
+right: 50%;
+top: 56.96%;
+bottom: 39.69%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px; 
+/* identical to box height
+
+
+/* white */
+
+color: #FFFFFF;
+Width:45px;
+Height:24px;
+Top:409px;
+Left:990px;
+}
+.Log-in{
+    /* visibility: hidden; */
+    position: relative;
+}
+.Forgot-Password{
+    position: absolute;
+width: 110px;
+height: 20px;
+left: 795px;
+top: 465px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+
+color: #2A2A2D;
+
+}
+.Forgot-Username{
+    position: absolute;
+width: 110px;
+height: 18px;
+left: 1130px;
+top: 465px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #2A2A2D;
+}
+.Line1{
+    position: absolute;
+width: 210px;
+height: 0px;
+left: 770px;
+top: 529px;
+
+border: 0.5px solid #808080;
+transform: rotate(180deg);
+
+}
+.Or{
+    position: absolute;
+    width: 14px;
+    height: 20px;
+    left: 990px;
+    top: 519px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    
+    color: #2A2A2D;
+}
+.Line2{
+    position: absolute;
+width: 210px;
+height: 0px;
+left: 1010px;
+top: 529px;
+
+border: 0.5px solid #808080;
+transform: rotate(180deg);
+}
+.google{
+    position: absolute;
+    width: 202px;
+    height: 42px;
+    left: 1030px;
+    top: 574px;
+    padding-left: 48px;
+    text-align:left;
+    
+    background: #FFFFFF;
+    border: 1px solid #BFBFBF;
+    border-radius: 50px;
+    /* background-image: url(./images/Facebookimg.png); */
+}
+.facebook{
+    position: absolute;
+width: 202px;
+height: 42px;
+left: 770px;
+top: 574px;
+background: #FFFFFF;
+border: 1px solid #BFBFBF;
+border-radius: 50px;
+padding-left: 45px;
+text-align: left;
+}
+.face{
+    position: absolute;
+    left: 6.49%;
+    /* right: 39.85%; */
+    top: 23.34%;
+    bottom: 15.6%;
+    Width:22px;
+Height:22px;
+    
+}
+.goog{
+    position: absolute;
+width: 21.59px;
+height: 22px;
+left: 15px;
+top: 10px;
+}
+.Rectangle1{
+    /* position:relative ; */
+    Width: 15ppx;
+Height: 15px;
+right: 130px;
+top: 285px;
+
+}
+.Vector3{
+    /* position:relative ; */
+    Width: 18px;
+Height: 7px;
+right: 130px;
+top: 285px;
+}
+.Rectangle5{
+    /* position: relative; */
+    Width: 21px;
+    Height: 15px;
+    right: 130px;
+    top: 285px;    
+}
+.Ellipse6{
+    /* position: relative; */
+    Width: 6px;
+    Height: 5px;
+    right: 130px;
+top: 285px;
+}
+.Vector5{
+    /* position: relative; */
+    Width: 15px;
+    Height: 7px;
+    right: 130px;
+    top: 285px;
+}
+.Sign_in_squre{
+    /* position: relative; */
+    Width: 24px;
+Height:25px;
+Top:24px;
+Left: 100px;
+/* background-color: #000000; */
+}
+
+
+
+@media screen and (max-width:768px) {
+    .first{
+      position: relative;
+width: 500px;
+height: 600px;
+    }
+    .Logo{
+        position: relative;
+        left: 112.34px;
+    right: 55.63px;
+    top: -841px;
+    bottom: 19.59%;
+    
+    }
+    .first1{
+        display: none;
+    }
+    .second{
+        display: none;
+    }
+    .Rectangle4580{
+        position: relative;
+width: 428px;
+height: 926px;
+
+background: #000000;
+        
+        
+    }
+    .third{
+        position: absolute;
+    width: 428px;
+    height: 683px;
+    left: 0px;
+    top: 243px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.25);
+    border-radius: 40px 40px 0px 0px;
+    }
+    .Rectangle175{
+        position: absolute;
+        justify-content: center;
+    width: 370px;
+    height: 48px;
+    right: 34px;
+    top: 142px;
+background: #F7F8F8;
+border-radius: 12px;
+
+    }
+    .Password{
+        position: absolute;
+    width: 370px;
+    height: 48px;
+    right: 34px;
+    top: 216px;
+    background: #F7F8F8;
+    border-radius: 12px;
+    }
+    .Forgot-Password{
+        position: absolute;
+    width: 110px;
+    height: 20px;
+    left: 53px;
+    top: 414px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    
+    color: #2A2A2D;
+    
+    }
+    .Forgot-Username{
+        position: absolute;
+    width: 110px;
+    height: 20px;
+    left: 264px;
+    top: 414px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: #2A2A2D;
+    }
+    .Please-Login{
+        position: absolute;
+width: 283px;
+height: 18px;
+right: 72px;
+top: 87px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+
+
+color: #7B6F72;
+
+    }
+    .Log-in{
+        position: absolute;
+width: 80px;
+height: 18px;
+right: 174px;
+top: 50px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 18px;
+/* identical to box height, or 69% */
+
+
+color: #7B6F72;
+        }
+        .Rectangle4584{
+            Width:388px;
+            Height:60px;
+            Top:333px;
+            Left:15px;
+            /* Radius:300000px; */
+            border-radius: 30px;
+        }
+        .Login{
+            position: relative;
+
+            Width:46px;
+            Height:24px;
+            Top:541px;
+            Left:15px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 24px;
+        color: #000000;
+        /* identical to box height */
+        
+        
+        /* white */
+        
+        color: #FFFFFF;
+        Width:45px;
+        Height:24px;
+        Top:353px;
+        Left:176px;
+        }
+        .Rectangle1{
+            position:relative ;
+            Width: 15ppx;
+        Height: 15px;
+        Top:-200px;
+        Left:28px;
+        
+        }
+        .Vector3{
+            position:relative ;
+            Width: 18px;
+        Height: 7px;
+        Top:-207px;
+        Left:10px;
+        }
+        .Rectangle5{
+            position: relative;
+            Width: 21px;
+            Height: 15px;
+            Top: -123px;
+            Left: -9px;
+        }
+        .Ellipse6{
+            position: relative;
+            Width: 6px;
+            Height: 5px;
+            Top: -129px;
+            Left: -22px;
+        }
+        .Vector5{
+            position: relative;
+            Width: 15px;
+            Height: 7px;
+            Top: -138px;
+            Left: -33px;
+        }
+        .Line1{
+            position: absolute;
+        width: 186px;
+        height: 0px;
+        left: 24px;
+        top: 477px;
+        
+        border: 0.5px solid #808080;
+        transform: rotate(180deg);
+        
+        }
+        .Or{
+            position: absolute;
+            width: 14px;
+            height: 20px;
+            left:216px;
+            top: 469px;
+            
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 18px;
+            
+            color: #2A2A2D;
+        }
+        .Line2{
+            position: absolute;
+        width: 164px;
+        height: 0px;
+        left: 237px;
+        top: 479px;
+        
+        border: 0.5px solid #808080;
+        transform: rotate(180deg);
+        }
+        .facebook{
+            position: absolute;
+        width: 202px;
+        height: 42px;
+        left: 102px;
+        top: 505px;
+        background: #FFFFFF;
+        border: 1px solid #BFBFBF;
+        border-radius: 50px;
+        padding-left: 45px;
+        text-align: left;
+        }
+        .google{
+            position: absolute;
+            width: 202px;
+            height: 42px;
+            left: 100px;
+            top: 574px;
+            padding-left: 48px;
+            text-align:left;
+            
+            background: #FFFFFF;
+            border: 1px solid #BFBFBF;
+            border-radius: 50px;
+            /* background-image: url(./images/Facebookimg.png); */
+        }
+        .Sign_in_squre{
+    position: relative;
+    Width: 18px;
+    Height: 15px;
+    Top: -2px;
+    Left: 71px;
+        }
+    
+}
